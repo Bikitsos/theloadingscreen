@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://theloadingscreen.bikitsos.com/sitemap.xml
